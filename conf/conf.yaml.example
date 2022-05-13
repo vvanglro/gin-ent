@@ -1,0 +1,10 @@
+Database:
+  username: postgres
+  password: postgres
+  host: localhost
+  port: 5432
+  dbname: ent
+
+Jwt:
+  jwtSecret: secret key
+  TokenExpireDuration: 7
